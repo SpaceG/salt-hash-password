@@ -1,6 +1,8 @@
 # salt-hash-password
 A Node.js - Salt/ Hash Password Generator 
 
+![Alt text](https://raw.githubusercontent.com/SpaceG/salt-hash-password/master/salthash.png "Optional Title")
+
 
 # get start the App
 clone the git .
